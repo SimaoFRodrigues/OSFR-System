@@ -1,6 +1,6 @@
 # ⚙💻 OSFR System
 
-OSFR System é um sistema desktop multiplataforma (Windows, Linux e macOS) para gestão de ordens de serviço em empresas de assistência técnica.
+OSFR System é um sistema desktop para gestão de ordens de serviço em empresas de assistência técnica.
 Permite o registo e acompanhamento de reparações, administração de clientes, emissão de relatórios e controlo de técnicos, proporcionando uma 
 solução robusta para otimizar o fluxo operacional das estações de trabalho.
 
